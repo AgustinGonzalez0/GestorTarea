@@ -1,0 +1,15 @@
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la [Licencia MIT](./LICENSE).
+
+# 📝 Gestor de Tareas - Tkinter + SQLite
+
+Una aplicación de escritorio simple creada con Python y Tkinter que permite gestionar tareas. Se utiliza SQLite como base de datos para almacenar las tareas de manera local.
+
+## 🎯 Funcionalidades
+
+- ✅ Agregar nuevas tareas con título y descripción
+- 🗑️ Eliminar tareas existentes
+- ✏️ Editar tareas previamente creadas
+- 💾 Persistencia de datos usando SQLite
+- 🖼️ Interfaz gráfica simple con Tkinter
